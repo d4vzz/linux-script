@@ -1,4 +1,4 @@
-<p align-item: center >🤖<p>
+<div style='text-align:center>🤖</div>
 
 Meus scripts de pós-instalação e organização no ubuntu/derivados.
 
