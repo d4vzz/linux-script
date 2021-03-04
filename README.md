@@ -1,4 +1,4 @@
-<div style='text-align:center><p>🤖<p></div>
+<div style=text-align:center><p>🤖<p></div>
 
 Meus scripts de pós-instalação e organização no ubuntu/derivados.
 
