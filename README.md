@@ -1,4 +1,12 @@
-<div style=text-align:center><p>🤖<p></div>
+<h1 align="center">
+   🤖
+</h1>
+
+<p align="center">
+  <a href="#instala-pacotes.sh">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#organiza-pacotes.sh">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como executar">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Licença</a>
 
 Meus scripts de pós-instalação e organização no ubuntu/derivados.
 
@@ -13,3 +21,28 @@ Rhythmbox, Thunderbird, Transmission, Pidgin, Hexchat e Cheese.
 
 ## organiza-pacotes.sh
 Atualiza e conserta pacotes datados, sem uso ou duplicados, além de limpar a /TMP, lixeira e caches.
+
+## Como executar
+Baixe o script desejado, atentando-se a sua distro, localize o arquivo na pasta e então abra um terminal no local, digitando:
+
+```bash
+sh nome-do-script.sh
+```
+
+ou, rode o script a partir daqui, para isso, baixe:
+
+```bash
+sudo apt install curl -y
+```
+e execute em seguida, dependendo do script escolhido:
+
+```bash
+curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/d4vzz/linux-script/master/instala-pacotes.sh | bash
+```
+```bash
+curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/d4vzz/linux-script/master/organiza-pacotes.sh | bash
+```
+
+## Licença
+
+Esse projeto está sob a licença GPL-3.0. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
