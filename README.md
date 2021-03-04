@@ -8,7 +8,10 @@
   <a href="#como executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 
+
 Meus scripts de pós-instalação e organização no ubuntu/derivados.
+
+
 
 ## instala-pacotes.sh
 Instala pacotes e adiciona alguns respositórios, além de configurar alguns ambientes que utilizo (mídia, gráficos, desenvolvimento e descompactadores), além de atualizar e consertar pacotes.
