@@ -1,5 +1,6 @@
-<p>🤖<p>
-meus scripts de pós-instalação e organização no ubuntu/derivados.
+<p align-item: center >🤖<p>
+
+Meus scripts de pós-instalação e organização no ubuntu/derivados.
 
 ## instala-pacotes.sh
 Instala pacotes e adiciona alguns respositórios, além de configurar alguns ambientes que utilizo (mídia, gráficos, desenvolvimento e descompactadores), além de atualizar e consertar pacotes.
