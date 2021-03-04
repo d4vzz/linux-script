@@ -93,11 +93,6 @@ sudo apt install python3-pip -y
 sudo apt install python3-django -y
 
 echo ""
-echo "configurando o GIT..."
-git config --global user.name "d4vzz"
-git config --global user.email "dvzzbatista@gmail.com"
-
-echo ""
 echo "instalando Synaptic..."
 echo ""
 sudo apt install synaptic -y
