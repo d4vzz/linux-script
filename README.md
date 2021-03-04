@@ -8,7 +8,6 @@
   <a href="#como executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 
-<br>
 ## instala-pacotes.sh
 Instala pacotes e adiciona alguns respositórios, além de configurar alguns ambientes que utilizo (mídia, gráficos, desenvolvimento e descompactadores), além de atualizar e consertar pacotes.
 
@@ -18,11 +17,9 @@ Mesa Driver (PPA), Vivaldi, Discord, Flatpak, Snapd, Stremio, Telegram (Flatpak)
 ### Remove:
 Rhythmbox, Thunderbird, Transmission, Pidgin, Hexchat e Cheese.
 
-<br>
 ## organiza-pacotes.sh
 Atualiza e conserta pacotes datados, sem uso ou duplicados, além de limpar a /TMP, lixeira e caches.
 
-<br>
 ## Como executar
 Baixe o script desejado, atentando-se a sua distro, localize o arquivo na pasta e então abra um terminal no local, digitando:
 
@@ -44,7 +41,6 @@ curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/d4vzz/l
 curl -H 'Cache-Control: no-cache' -sSL https://raw.githubusercontent.com/d4vzz/linux-script/master/organiza-pacotes.sh | bash
 ```
 
-<br>
 ## Licença
 
 Esse projeto está sob a licença GPL-3.0. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
